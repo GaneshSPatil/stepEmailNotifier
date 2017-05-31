@@ -1,0 +1,19 @@
+{
+  "name": "step-email-notifier",
+  "version": "0.0.1",
+  "description": "a simple mail notifier for step batch 4 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneshSPatil/stepEmailNotifier.git"
+  },
+  "author": "STEP-2015/17",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/GaneshSPatil/stepEmailNotifier/issues"
+  },
+  "homepage": "https://github.com/GaneshSPatil/stepEmailNotifier#readme"
+}
