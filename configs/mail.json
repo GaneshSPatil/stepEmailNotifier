@@ -1,9 +1,0 @@
-{
-  "admin_name": "Admin Name",
-  "admin_id": "admin_email_id",
-  "admin_password": "admin_password",
-  "host": "smtp.gmail.com",
-  "text": "here is the body of the mail",
-  "subject": "This is the subject of the mail",
-  "attachments": []
-}
